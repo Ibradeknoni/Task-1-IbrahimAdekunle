@@ -22,7 +22,7 @@ This project demonstrates the data cleaning and preparation of an e-commerce sal
 * Validated data formats and checked for inconsistencies.
 * Performed final quality checks to ensure data integrity.
 
-## Tools Used
+## Tools and Features Used
 
 * Microsoft Excel
 * Excel Tables
