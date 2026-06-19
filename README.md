@@ -33,9 +33,9 @@ This project demonstrates the data cleaning and preparation of an e-commerce sal
 
 ## Repository Contents
 
-* **Raw_Dataset.xlsx** – Original dataset before cleaning.
-* **Cleaned_Dataset.xlsx** – Dataset after data cleaning and preparation.
-* **Data_Cleaning_Report.pdf** – Documentation of the data cleaning methodology and outcomes.
+- Raw_Dataset.xlsx Original dataset before cleaning.
+- Cleaned_Dataset.xlsx  Dataset after data cleaning and preparation.
+- Data_Cleaning_Report.pdf Documentation of the data cleaning methodology and outcomes.
 
 ## Author
 
